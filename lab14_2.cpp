@@ -57,5 +57,6 @@ void showMatrix(const bool B[][N]) {
         cout << "\n";
     }
 }
+ 
 
 //Do not modify source code above this line 
